@@ -25,6 +25,7 @@ To explore the report, you can download the Power BI `.pbix` file from this repo
 ### Repository Structure
 - **.csv files**: HR datasets (synthetic data).
 - **HR analytics.pbix**: The Power BI report file.
+- **HR analytics.pdf**: The Power BI report file in pdf.
 
 ## About the Project
 In this Power BI case study, we explored HR data to help Atlas Labs understand and manage their workforce effectively. The dashboard enables the HR team to analyze employee demographics, track hiring and performance metrics, and assess attrition. Key insights uncovered include trends in employee age, gender diversity, and factors contributing to attrition, such as travel frequency.
