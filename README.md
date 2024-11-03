@@ -23,7 +23,7 @@ To explore the report, you can download the Power BI `.pbix` file from this repo
 - Power BI Desktop
 
 ### Repository Structure
-- **/data**: Folder containing example HR datasets (synthetic data).
+- **.csv files**: HR datasets (synthetic data).
 - **HR analytics.pbix**: The Power BI report file.
 
 ## About the Project
